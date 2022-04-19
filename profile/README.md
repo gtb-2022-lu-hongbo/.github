@@ -3,7 +3,7 @@
 Hola, this is PiedPiper.
 
 This is me in 2019:
-![Show](./assets/Show.jpg)
+![Show](assets/Show.jpg)
 
 The name "PiedPiper" is from an US serious "The Silicon Valley".
 
