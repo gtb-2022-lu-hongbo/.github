@@ -4,7 +4,7 @@ Hola, this is PiedPiper.
 
 This is me in 2019:
 
-![Show](assets/Show.jpg)
+![Show](https://github.com/gtb-2022-lu-hongbo/.github/blob/main/profile/assets/Show.jpg)
 
 The name "PiedPiper" is from an US serious "The Silicon Valley".
 
